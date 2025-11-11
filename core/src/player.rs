@@ -2606,7 +2606,7 @@ impl PlayerBuilder {
             player_version: None,
             player_runtime: PlayerRuntime::default(),
             player_mode: PlayerMode::default(),
-            quality: StageQuality::High,
+            quality: StageQuality::Low,
             page_url: None,
             frame_rate: None,
             external_interface_provider: None,
